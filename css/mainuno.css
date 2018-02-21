@@ -1,0 +1,135 @@
+
+ body{
+    background-color: aquamarine;
+
+
+ }
+ 
+ header nabvar{
+    background-color: black;
+    color: #fff;
+ }
+ .text-center{
+    margin-top: 5%;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: palevioletred;
+    letter-spacing: 1.1;
+
+ }
+ 
+ .containerImage{
+    margin-top: 5%;
+
+ }
+ .size{
+    display: block;
+    height: 190px;
+    border: 2px solid transparent;
+    padding: 10px;
+    border-radius: 25%;
+    
+}
+
+ .size:hover {
+    -webkit-transform: rotateY(180deg);
+    -webkit-transform-style: preserve-3d;
+    transform: rotateY(180deg);
+    transform-style: preserve-3d;
+}
+
+.fhaterSpan{
+    height: 124px;
+    position: relative;
+}
+    
+ .image{
+     position: relative;
+    text-align: center;
+    width: 100%;
+    height: inherit;
+    object-fit: cover;
+    object-position: center;
+    padding: 10px;
+    border-radius: 40px;
+    
+}
+
+.informationImage {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    padding: 10px 25px;
+}
+
+.informationImage span{
+    background-color: palevioletred;;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    display: block;
+    line-height: 100px;
+    border-radius: 40px;
+}
+.iconHover{
+    width: 20%;
+}
+
+.inicio{
+   margin-top: 10%;
+     
+}
+.containerPic{
+    border:transparent;
+    margin-left: 18px;
+    
+}
+.inicio2{
+    margin-top: 0px;
+}
+.back{
+    width: 140px;
+    display: block;
+    font-size: 16px;
+    margin-top: 5%;
+    background: black;
+    color:aqua;
+    padding: 10px 35px;
+    border-radius: 5px;
+    text-decoration: none;
+    letter-spacing: 1.2rem;
+    margin-bottom: 5%;
+    
+
+}
+.back:hover{
+    background-color: palevioletred;
+    color: black;
+    font-size: 18px;
+}
+
+.maps{
+    width: 80%;
+    height: 40%;
+    position: flex;
+    margin-left: 10%;
+
+}
+ .call {
+    background: black;
+    color:aqua;
+    border-radius: 5px;
+    border: none;
+}
+.btn{
+    background: black;
+    color:aqua;
+    border-radius: 5px;
+    border: none;
+}
+
+ 
