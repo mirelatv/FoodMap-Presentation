@@ -1,6 +1,6 @@
-# BicisLocas
-Bicis locas es una tienda online, en la cual encontrarás tu bici ideal. Sólo llena el formulario y te contáctaremos.
+# FOOD MAP
+Food map es una web, donde encontraras opciones de restaurantes, con sus direcciones y mapas para poder llegar con facilidad. 
 
-![Foodmap-preview](g)
+![Foodmap-preview](https://github.com/mirelatv/FoodMap-Presentation/blob/master/assets/images/foodmap.png)
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)

@@ -85,7 +85,8 @@
    }
   
    tbody tr td a:hover{
-      background: rgba(0,0,0,0.3);
+      background: rgba(0,0,0,0.0);
+      color: beige;
    }
   
    #table_length, #table_filter, #table_info, #table_paginate{
