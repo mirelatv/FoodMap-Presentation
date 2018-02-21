@@ -1,7 +1,7 @@
 /* Splash*/
 $(document).ready(function () {
 
-    $('.initial').fadeOut(5000);
+    $('.initial').fadeOut(3000);
 
 })
 
