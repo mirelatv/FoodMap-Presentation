@@ -333,7 +333,8 @@ $('.fhaterSpan').hover(function () {
 //   function modalMap(){
     $('.fhaterSpan').click(function (event) {
         // console.log($(this).attr('data-addres'));
-        $('iframe').attr('src',`https://www.google.com/maps/embed/v1/place?key=AIzaSyCT2GpxF7X_3dlLQVdNOqmzlHBaJVHXwwA&q=${encodeURI($(this).attr('data-addres'))}`);
+        $('iframe').attr
+('src',`https://www.google.com/maps/embed/v1/place?key=AIzaSyCT2GpxF7X_3dlLQVdNOqmzlHBaJVHXwwA&q=${encodeURI($(this).attr('data-addres'))}`);
     });
 
 

@@ -1,9 +1,23 @@
 
  body{
-    background-color: aquamarine;
+    background-image: url('https://www.simplesoftware.com.ar/sitio/wp-content/uploads/2011/05/fondo-celeste-oscuro-6269.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top;
+    background-position: left
+
 
 
  }
+.containerImage{
+    background-color: rgba(0, 0, 0, 0.342);
+    margin-left: 5vh;
+    margin-right: 5vh;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    
+}
+
  
  header nabvar{
     background-color: black;
@@ -13,7 +27,7 @@
     margin-top: 5%;
     font-size: 30px;
     font-family: sans-serif;
-    color: palevioletred;
+    color:rgba(0, 0, 0, 0.623);
     letter-spacing: 1.1;
 
  }
@@ -66,7 +80,7 @@
 }
 
 .informationImage span{
-    background-color: palevioletred;;
+    background-color: goldenrod;;
     text-align: center;
     color: #fff;
     width: 100%;
@@ -107,7 +121,7 @@
 
 }
 .back:hover{
-    background-color: palevioletred;
+    background-color: goldenrod;
     color: black;
     font-size: 18px;
 }
